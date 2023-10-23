@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <th>Aksi</th> 
             <?php } ?>
         </tr> 
-        <?php foreach ($buku as $b) { ?>
+        <?php foreach ($buku as $b) { ?> 
         <tr> 
         <td><?php echo $b->id; ?></td> 
             <td><?php echo $b->judul; ?></td> 
