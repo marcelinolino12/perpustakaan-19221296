@@ -10,4 +10,17 @@ class KategoriController extends BaseController
     {
         //
     }
+
+    public function novel()
+    {
+        //
+    } public function majalah()
+    {
+        //
+    }
+    public function kamus()
+    {
+        //
+    }
+
 }
