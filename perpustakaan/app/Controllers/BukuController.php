@@ -10,6 +10,7 @@ class BukuController extends BaseController
     {
         //
     }
+
     public function create()
     {
         //
@@ -25,4 +26,5 @@ class BukuController extends BaseController
     {
         //
     }
+
 }

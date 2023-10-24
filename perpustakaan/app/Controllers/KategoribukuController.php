@@ -4,23 +4,18 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 
-class KategoriController extends BaseController
+class KategoribukuController extends BaseController
 {
     public function index()
     {
         //
     }
-
-    public function novel()
-    {
-        //
-    } public function majalah()
+    public function kategori()
     {
         //
     }
-    public function kamus()
+    public function kode_ddc()
     {
         //
     }
-
 }
