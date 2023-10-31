@@ -10,16 +10,8 @@ class BerandaController extends BaseController
     {
         //
     }
-    public function home()
-    {
-        //
-    }
-    public function about()
-    {
-        //
-    }
-    public function profil()
-    {
-        //
-    }
 }
+$data = [
+    'title' => 'Welcome',
+    'description' => 'selamat datang website kami!'
+];
