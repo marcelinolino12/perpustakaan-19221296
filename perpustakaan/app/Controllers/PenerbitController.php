@@ -10,4 +10,13 @@ class PenerbitController extends BaseController
     {
         //
     }
+
+    public function tahun_terbit()
+    {
+        //
+    } public function nama_penerbit()
+    {
+        //
+    }
+
 }
